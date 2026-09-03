@@ -14,9 +14,6 @@ Repositório criado para registrar minha evolução no aprendizado de Python dur
 - Projetos práticos
 
 ## Estrutura
-
-📁 fundamentos  
-📁 condicionais  
-📁 loops  
-📁 funcoes  
-📁 projetos
+- Mundo 1: Fundamentos
+- Mundo 2: Estruturas de controle
+- Mundo 3: Estruturas compostas
