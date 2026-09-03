@@ -2,6 +2,9 @@
 
 Repositório criado para registrar minha evolução no aprendizado de Python durante minha formação em Engenharia de Software.
 
+## Objetivo
+Praticar os fundamentos da linguagem Python e acompanhar minha evolução em pr
+
 ## Conteúdos
 
 - Entrada e saída de dados
